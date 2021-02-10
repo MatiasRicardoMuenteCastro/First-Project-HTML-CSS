@@ -28,7 +28,10 @@ header{
 }
 #buttons-top button{
     border: solid 1px white;
+    font-size: 12px;
     background-color: rgba(160, 160, 160, 0.61);
+    text-transform: uppercase;
+    letter-spacing: 1px;
     color: white;
 }
 
